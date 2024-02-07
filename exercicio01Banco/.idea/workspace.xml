@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="7fed4ba9-3f82-4270-8215-b08346340166" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../heranca/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../heranca/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../heranca/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../heranca/.idea/jarRepositories.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../heranca/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../heranca/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../heranca/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../heranca/src/main/java/github/com/thiagorduarte1107/aula37/Aluno.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../heranca/src/main/java/github/com/thiagorduarte1107/aula37/Pessoa.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../heranca/src/main/java/github/com/thiagorduarte1107/aula37/Professor.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../heranca/src/main/java/github/com/thiagorduarte1107/aula37/Test.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../heranca/src/main/java/github/com/thiagorduarte1107/aula38/Aluno.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../heranca/src/main/java/github/com/thiagorduarte1107/aula38/Pessoa.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../heranca/src/main/java/github/com/thiagorduarte1107/aula38/Professor.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../heranca/src/main/java/github/com/thiagorduarte1107/aula38/Test.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../heranca/src/main/java/github/com/thiagorduarte1107/aula39/Aluno.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../heranca/src/main/java/github/com/thiagorduarte1107/aula39/Pessoa.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../heranca/src/main/java/github/com/thiagorduarte1107/aula39/Professor.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../heranca/src/main/java/github/com/thiagorduarte1107/aula39/Test.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../heranca/src/main/java/github/com/thiagorduarte1107/aula40/Aluno.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../heranca/src/main/java/github/com/thiagorduarte1107/aula40/Pessoa.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../heranca/src/main/java/github/com/thiagorduarte1107/aula40/Professor.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../heranca/src/main/java/github/com/thiagorduarte1107/aula40/test.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../heranca/src/main/java/github/com/thiagorduarte1107/aula43/Aluno.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../heranca/src/main/java/github/com/thiagorduarte1107/aula43/Test.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../heranca/target/classes/github/com/thiagorduarte1107/aula37/Aluno.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../heranca/target/classes/github/com/thiagorduarte1107/aula37/Pessoa.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../heranca/target/classes/github/com/thiagorduarte1107/aula37/Test.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../heranca/target/classes/github/com/thiagorduarte1107/aula38/Aluno.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../heranca/target/classes/github/com/thiagorduarte1107/aula38/Pessoa.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../heranca/target/classes/github/com/thiagorduarte1107/aula38/Test.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../heranca/target/classes/github/com/thiagorduarte1107/aula39/Aluno.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../heranca/target/classes/github/com/thiagorduarte1107/aula39/Pessoa.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../heranca/target/classes/github/com/thiagorduarte1107/aula39/Professor.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../heranca/target/classes/github/com/thiagorduarte1107/aula39/Test.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../heranca/target/classes/github/com/thiagorduarte1107/aula40/Aluno.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../heranca/target/classes/github/com/thiagorduarte1107/aula40/Pessoa.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../heranca/target/classes/github/com/thiagorduarte1107/aula40/Professor.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../heranca/target/classes/github/com/thiagorduarte1107/aula40/test.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../heranca/target/classes/github/com/thiagorduarte1107/aula43/Aluno.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../heranca/target/classes/github/com/thiagorduarte1107/aula43/Test.class" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="PUSH_TAGS">
+      <GitPushTagMode>
+        <option name="argument" value="--tags" />
+        <option name="title" value="All" />
+      </GitPushTagMode>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="selectedUrlAndAccountId">
+      <UrlAndAccount>
+        <option name="accountId" value="9a4a7684-78c4-4609-bc05-ab3566cf6733" />
+        <option name="url" value="https://github.com/thiagorduarte1107/heranca.git" />
+      </UrlAndAccount>
+    </option>
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2byMNz4COpa2O8MQryB2qreTmeZ" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "last_opened_file_path": "C:/Users/LAB-BABY/Desktop/Dev/Loiane Training/Banco"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7fed4ba9-3f82-4270-8215-b08346340166" name="Changes" comment="" />
+      <created>1707182831095</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1707182831095</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Initial commit&#10;&#10;OO: Herança, Interfaces e Polimorfismo (02:58:20)" />
+    <option name="LAST_COMMIT_MESSAGE" value="" />
+  </component>
+</project>
